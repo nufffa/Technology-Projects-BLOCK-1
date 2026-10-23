@@ -1,0 +1,4 @@
+Storage Read/Write Test
+
+Write Speed: [34.5] MB/s
+Read Speed: [45.7] MB/s
